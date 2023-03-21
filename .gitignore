@@ -1,2 +1,3 @@
 unprocessed/
 *.nii
+*.pth
